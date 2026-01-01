@@ -9,7 +9,6 @@ This project is being built step-by-step, starting from local communication and 
 
 ## 📁 Project Structure
 
-
 terminal-chat/
 │
 ├── server/
