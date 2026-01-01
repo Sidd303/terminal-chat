@@ -1,3 +1,4 @@
+![Banner](assets/banner.png)
 # 🖥️ Terminal Chat Application 💬
 
 A **tech-styled, terminal-based chat application** built using **Python sockets & threading**, allowing multiple users to chat in real time through the command line with a clean, colorful UI.
