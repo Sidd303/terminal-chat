@@ -145,14 +145,3 @@ If you like this project:
 
 
 ---
-
-## ✅ Next Suggested Step
-
-🔥 **Next feature to implement (recommended order):**
-
-1️⃣ Chat rooms (create / join)  
-2️⃣ `/users` & `/rooms` commands  
-3️⃣ Global tunneling (Ngrok / Cloudflare)  
-
-Say **“NEXT”** and I’ll help you implement **room system step-by-step with clean UI** 🚀
-
